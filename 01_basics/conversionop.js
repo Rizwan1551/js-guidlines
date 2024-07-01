@@ -50,7 +50,27 @@ num1 = num2 = num3 = 2+2
 let gameCounter = 100
 gameCounter++;
 ++gameCounter;
-console.log(gameCounter);
+// console.log(gameCounter);
+
+let y, x = 5;
+y = x++
+// console.log(y);
+// console.log(y);
+
+let y, x = 5, a = 4, b = 6;
+y = --x + a++ + ++b;
+console.log(y);
+console.log(a);
+console.log(b);
+console.log(x);
+
+
+
+
+
+
+
+
  
 
 
