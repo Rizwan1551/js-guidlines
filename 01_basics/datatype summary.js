@@ -31,4 +31,5 @@ const myId = {
 const myFunction = function(){
     console.log("hello world");
 }
-console.log(typeof BigNumber);
+console.log(typeof outsideTemp);
+
